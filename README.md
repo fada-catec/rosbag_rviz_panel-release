@@ -1,0 +1,1 @@
+# rosbag_rviz_panel-release
