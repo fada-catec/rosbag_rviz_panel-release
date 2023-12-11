@@ -1,0 +1,12 @@
+Source: ros-noetic-rosbag-rviz-panel
+Section: misc
+Priority: optional
+Maintainer: José Manuel González Marín <jmgonzalez@catec.aero>
+Build-Depends: debhelper (>= 9.0.0), qtbase5-dev, ros-noetic-catkin, ros-noetic-pluginlib, ros-noetic-rosbag, ros-noetic-roscpp, ros-noetic-rviz
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-noetic-rosbag-rviz-panel
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, qtbase5-dev, ros-noetic-pluginlib, ros-noetic-rosbag, ros-noetic-roscpp, ros-noetic-rviz
+Description: The rosbag_rviz_panel package
