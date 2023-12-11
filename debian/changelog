@@ -1,0 +1,62 @@
+ros-noetic-rosbag-rviz-panel (0.1.9-2focal) focal; urgency=high
+
+  * Added CHANGELOG.rst
+  * Prepare package for release
+
+ -- José Manuel González Marín <jmgonzalez@catec.aero>  Thu, 23 Nov 2023 23:00:00 -0000
+
+ros-noetic-rosbag-rviz-panel (0.1.8-2focal) focal; urgency=high
+
+  * Changes to pass prerelease test
+
+ -- José Manuel González Marín <jmgonzalez@catec.aero>  Thu, 23 Nov 2023 23:00:00 -0000
+
+ros-noetic-rosbag-rviz-panel (0.1.7-2focal) focal; urgency=high
+
+  * Further changes made to CMakeLists.txt
+
+ -- José Manuel González Marín <jmgonzalez@catec.aero>  Thu, 23 Nov 2023 23:00:00 -0000
+
+ros-noetic-rosbag-rviz-panel (0.1.6-2focal) focal; urgency=high
+
+  * Cleaner CMakeLists.txt
+
+ -- José Manuel González Marín <jmgonzalez@catec.aero>  Wed, 22 Nov 2023 23:00:00 -0000
+
+ros-noetic-rosbag-rviz-panel (0.1.5-2focal) focal; urgency=high
+
+  * Main icon added
+
+ -- José Manuel González Marín <jmgonzalez@catec.aero>  Tue, 21 Nov 2023 23:00:00 -0000
+
+ros-noetic-rosbag-rviz-panel (0.1.4-2focal) focal; urgency=high
+
+  * Minor changes
+
+ -- José Manuel González Marín <jmgonzalez@catec.aero>  Tue, 21 Nov 2023 23:00:00 -0000
+
+ros-noetic-rosbag-rviz-panel (0.1.3-2focal) focal; urgency=high
+
+  * Changes to the readme
+
+ -- José Manuel González Marín <jmgonzalez@catec.aero>  Mon, 20 Nov 2023 23:00:00 -0000
+
+ros-noetic-rosbag-rviz-panel (0.1.2-2focal) focal; urgency=high
+
+  * Fixed some compiling warnings
+
+ -- José Manuel González Marín <jmgonzalez@catec.aero>  Mon, 20 Nov 2023 23:00:00 -0000
+
+ros-noetic-rosbag-rviz-panel (0.1.1-2focal) focal; urgency=high
+
+  * Release version
+
+ -- José Manuel González Marín <jmgonzalez@catec.aero>  Mon, 20 Nov 2023 23:00:00 -0000
+
+ros-noetic-rosbag-rviz-panel (0.1.0-2focal) focal; urgency=high
+
+  * Initial commit
+
+ -- José Manuel González Marín <jmgonzalez@catec.aero>  Mon, 20 Nov 2023 23:00:00 -0000
+
+
